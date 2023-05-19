@@ -1,6 +1,6 @@
-import 'package:app/components/card.dart';
-import 'package:app/controllers/article.controller.dart';
-import 'package:app/models/article.model.dart';
+import 'package:bytesized/components/card.dart';
+import 'package:bytesized/controllers/article.controller.dart';
+import 'package:bytesized/models/article.model.dart';
 import 'package:flutter/material.dart';
 
 void main() {
